@@ -3,7 +3,4 @@ DHH_task.pdf contains answers to questions and some directions
 DHH_task.ipynb is the python code used
 the SQL file is for Bigquery part 4
 
-I am aware that visuals are missing for Bigquery part, 
-Should add them here before the end of weekend but sending the repo now because I said I would send the task on Friday.
-
-Further cleaning and formatting will be done as well before the end of the weekend.
+Bigquery_visualization.twbx is Tableau packed workbook used to create bigquery visuals, included for reference only but no need for Tableau Desktop to access the visuals (already uploaded them to Tableau Public and put the links in the pdf)
